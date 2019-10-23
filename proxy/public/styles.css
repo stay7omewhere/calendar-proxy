@@ -1,0 +1,26 @@
+#Reviews {
+  margin-left: 50px;
+}
+
+.lowerHalf{
+  display: flex;
+  justify-content: center;
+}
+
+.leftLower{
+  margin-right: 40px;
+}
+
+.rightLower{
+  margin-left: 40px;
+}
+
+#reservations {
+  margin-top: 28px;
+  margin-right: 50px;
+}
+
+.overall{
+  display: flex;
+  flex-direction: column;
+}
